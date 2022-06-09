@@ -1,4 +1,4 @@
-# @bigstair/map
+# @marckraw/map
 
 ## 1.0.0
 

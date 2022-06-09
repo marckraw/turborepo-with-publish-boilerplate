@@ -1,6 +1,6 @@
 {
-  "name": "@bigstair/core",
-  "version": "1.0.6",
+  "name": "@marckraw/core",
+  "version": "0.0.1",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -16,11 +16,11 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
   "devDependencies": {
-    "ts-config-bigstair": "*",
+    "ts-config-marckraw": "*",
     "@types/react": "18.0.9",
     "@types/react-dom": "18.0.4",
     "eslint": "8.15.0",
-    "eslint-config-bigstair": "*",
+    "eslint-config-marckraw": "*",
     "react": "18.1.0",
     "tsup": "5.10.1",
     "typescript": "4.5.3"
