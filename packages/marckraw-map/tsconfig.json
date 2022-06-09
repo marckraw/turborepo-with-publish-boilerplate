@@ -1,5 +1,5 @@
 {
-  "extends": "ts-config-bigstair/react-library.json",
+  "extends": "ts-config-marckraw/react-library.json",
   "include": ["."],
   "exclude": ["dist", "build", "node_modules"]
 }
